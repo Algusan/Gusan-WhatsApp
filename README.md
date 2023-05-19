@@ -14,4 +14,5 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Algusan/Gusan-Whatsapp/blob/master "Deploy with Heroku")
+### Deployment Methods 
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/Algusan/Gusan-Whatsapp/blob/master "Deploy with Heroku")
