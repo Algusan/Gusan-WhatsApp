@@ -1,19 +1,95 @@
-<p align="center">
-<img src="https://telegra.ph/file/bdd281b87aaa6f4ee0a67.jpg" alt="nz" width="350"/>
-</p>
+<div align="center">
 
-## ***Chisato-WhatsApp***
-> This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
-> ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
-</br>
+<a href='https://www.linkpicture.com/view.php?img=LPic62169991d23e711584403'><img src='https://1.bp.blogspot.com/-SiHl61RLi1g/YIONWrGDGaI/AAAAAAAAGWs/HXiCsQafHAMSdapWg4HbNYN7BrQ4RmKXwCLcBGAsYHQ/s16000/beautiful%2Banime%2Bgirl.jpg' type='image'></a>
 
-<a href="https://github.com/AliAryanTech/"><img title="Author" src="https://img.shields.io/badge/Author-AliAryanTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
----
 
-### Deployment Methods 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?
-template=https://github.com/Algusan/Gusan-Whatsapp/blob/master "Deploy with Heroku")
+# **Gusan: A BOT WITH RICH ANIME FEATURES**
+
+
+
+[![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
+
+> A Fully Modular and Efficient Bot <br>
+
+ Button : If you are deploying normally
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Algusan/Gusan-WhatsApp)
+
+
+
+Button : If you are deploying from a fork
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
+</div><br/>
+<br/>
+
+## ✨ Highlights
+
+
+
+-   Fully Modular Design
+
+-   Object Oriented
+
+-   Written in [TypeScript](https://www.typescriptlang.org/)
+
+-   Self-Restoring Auth
+
+-   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
+
+    WhatsApp Library Out There)
+
+
+
+## 💻 Deploy/Hosting Guide
+
+
+
+-   Section Moved to
+
+    [Lumine-Guides](https://github.com/BEYOND-THE-WORLD/Lumine-guides/blob/main/README.md)
+
+
+
+## 🍥 Features of the Repo
+
+
+
+-   To view all features, click
+
+    here➡️[lumine-_featuresList.md](https://github.com/BEYOND-THE-WORLD/lumine-/blob/main/Features.md)
+
+
+
+## 💪 Contribution
+
+
+
+-   Feel free to open issues regarding any problems or if you have any feature requests
+
+-   Make sure to follow the ESLint Rules while editing the code and run
+
+    `yarn run prettier-format` before opening PRs
+
+
+
+## 📄 License
+
+
+
+Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
+
+for more information.
+
+
+
+## 🎗Help
+
+Please give this repo a ⭐ if it helped you.
